@@ -1,0 +1,48 @@
+[33mcommit 73314be07d8258b960405f83510932a243ddea03[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m
+Author: George Paul <georgepaulkp@gmail.com>
+Date:   Fri Dec 23 01:39:39 2022 +0530
+
+    Hello file modified
+
+[33mcommit 9f1b9c17260369b72a660cf9260c2a9176b0270a[m[33m ([m[1;32mmaster[m[33m)[m
+Author: George Paul <georgepaulkp@gmail.com>
+Date:   Fri Dec 23 01:35:49 2022 +0530
+
+    Hey file modified
+
+[33mcommit 1a93ba8d0050330bdf21c9b2be86b4f51e429bc9[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: 70f6a6f 3b68f47
+Author: George Paul <georgepaulkp@gmail.com>
+Date:   Fri Dec 23 01:29:11 2022 +0530
+
+    WIP on feature: 70f6a6f hey file Edited
+
+[33mcommit 3b68f47ce422e1121aa6997fc6eb8ee0c6ad4ab3[m
+Author: George Paul <georgepaulkp@gmail.com>
+Date:   Fri Dec 23 01:29:11 2022 +0530
+
+    index on feature: 70f6a6f hey file Edited
+
+[33mcommit 70f6a6fb048738245aac8e413558d410bb3565ce[m
+Author: George Paul <georgepaulkp@gmail.com>
+Date:   Fri Dec 23 00:28:56 2022 +0530
+
+    hey file Edited
+
+[33mcommit 975038c5149af1b375e6228ded5276b1e44af7a6[m
+Author: George Paul <georgepaulkp@gmail.com>
+Date:   Fri Dec 23 00:19:03 2022 +0530
+
+    second File Added
+
+[33mcommit ff7964eb46ecb35392f53911fd581064009b48c6[m
+Author: George Paul <georgepaulkp@gmail.com>
+Date:   Thu Dec 22 22:14:05 2022 +0530
+
+    Added some message
+
+[33mcommit 7f8b0977fd49c84467b6473bd1841a2a4ef7590c[m
+Author: George Paul <georgepaulkp@gmail.com>
+Date:   Wed Dec 21 18:46:40 2022 +0530
+
+    this is my first commit
